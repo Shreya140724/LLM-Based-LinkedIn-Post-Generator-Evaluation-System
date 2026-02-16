@@ -54,8 +54,8 @@ structured output parsing, and analytics integration.
 
 Creativity levels mapped to model temperature:
 
--   **Low** -- Structured & deterministic output\
--   **Balanced** -- Moderately creative\
+-   **Low** -- Structured & deterministic output
+-   **Balanced** -- Moderately creative
 -   **High** -- Highly creative & diverse
 
 ### 🔁 Regeneration Capability
@@ -85,11 +85,11 @@ A/B-style content exploration.
 
 ### Architectural Highlights
 
--   Structured Prompt Engineering\
--   Controlled LLM Generation\
--   Two-Stage LLM Pipeline (Generation + Evaluation)\
--   JSON Output Parsing\
--   Regex-Based Post Processing\
+-   Structured Prompt Engineering
+-   Controlled LLM Generation
+-   Two-Stage LLM Pipeline (Generation + Evaluation)
+-   JSON Output Parsing
+-   Regex-Based Post Processing
 -   Modular Design
 
 ------------------------------------------------------------------------
@@ -123,8 +123,9 @@ A/B-style content exploration.
   `few_shot.py`                 Few-shot example filtering and tag management
 
   `preprocess.py`               Metadata extraction and dataset preparation
-
+  
   `data/processed_posts.json`   Structured few-shot training examples
+  
   ------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -188,9 +189,9 @@ After content generation, the system performs:
 
 ### 📈 Text Analytics
 
--   Word count\
--   Character count\
--   Estimated reading time\
+-   Word count
+-   Character count
+-   Estimated reading time
 -   Hashtag detection
 
 ### 🧠 AI Evaluation Metrics
@@ -210,15 +211,15 @@ engagement.
 
 ## 🚀 Future Enhancements
 
--   A/B post generation comparison\
--   Trending hashtag extraction via API\
--   Deployment on Streamlit Cloud\
--   User post history logging\
+-   A/B post generation comparison
+-   Trending hashtag extraction via API
+-   Deployment on Streamlit Cloud
+-   User post history logging
 -   Advanced sentiment analysis
 
 ------------------------------------------------------------------------
 
 ## 👩‍💻 Author
 
-**Shreya Sidabache**\
+**Shreya Sidabache**
 AI / ML Engineer
