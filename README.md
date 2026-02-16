@@ -65,6 +65,19 @@ A/B-style content exploration.
 
 ------------------------------------------------------------------------
 
+## 📸 Demo Screenshots
+
+### User Interface
+![Chat UI](demo/UI.jpg)
+
+### Input Customization 
+![Upload](demo/IN.jpg)
+
+### Responses
+![Chat](demo/R1.jpg)
+![Chat](demo/R2.jpg)
+
+
 ## 🏗 System Architecture
 
     User Input
@@ -100,6 +113,7 @@ A/B-style content exploration.
     │
     ├── data/
     │   └── processed_posts.json
+    ├── demo/ images 
     ├── few_shot.py
     ├── llm_helper.py
     ├── main.py
