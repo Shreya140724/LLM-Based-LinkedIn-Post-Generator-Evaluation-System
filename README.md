@@ -198,9 +198,9 @@ After content generation, the system performs:
 A second-stage LLM evaluates the post and returns structured JSON scores
 for:
 
--   Engagement\
--   Clarity\
--   Hook Strength\
+-   Engagement
+-   Clarity
+-   Hook Strength
 -   CTA Strength
 
 This ensures content is optimized for both readability and audience
